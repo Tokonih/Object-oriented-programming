@@ -49,6 +49,7 @@ if (btn){
         arr.push(userData)
         console.log(arr)
         localStorage.setItem('registration', JSON.stringify(arr));
+        alert('Registration Successful')
         
         // console.table(userData)
         validation()

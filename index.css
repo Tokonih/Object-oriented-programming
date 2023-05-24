@@ -1,6 +1,9 @@
 body{
     background-color:whitesmoke;
 }
+h1{
+    text-align: centergit ;
+}
 
 form{
     height: 600px;
